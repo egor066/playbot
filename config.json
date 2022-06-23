@@ -1,0 +1,14 @@
+{
+    "ip": "WhitegreaF.aternos.me",
+    "port": 60154,
+    "name": "BOT1",
+    "auto-night-skip": "false",
+    "join-msg": "\u041f\u0420\u0418\u0412\u0415\u0422",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/reg 132132 132132",
+    "login-cmd": "/login 132132"
+}
